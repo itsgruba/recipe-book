@@ -3,7 +3,7 @@
 A collection of simple recipes.
 
 ## Featured Recipe
-Coming soon.
+More recipes coming soon.
 
 ## Recipes
 Recipes will be added here.
