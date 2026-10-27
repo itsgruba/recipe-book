@@ -3,7 +3,7 @@
 A collection of simple recipes.
 
 ## Featured Recipe
-Pancakes
+Pancakes - more recipes coming soon.
 
 ## Recipes
 - [Pancakes](recipes/pancakes.md)
